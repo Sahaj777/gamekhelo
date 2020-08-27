@@ -1,0 +1,67 @@
+[
+    {
+        "g_name": "Street Cricket",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2020/03/street-cricket.png",
+        "g_game": "https://freakxapps.com/demo/me/street-cricket/"
+    },
+    {
+       "g_name": "Guns & Bottles",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2019/05/300X176.png",
+        "g_game": "https://freakxapps.com/demo/me/gunsandbottles/"
+    },
+    {
+        "g_name": "Ludo Multiplayer",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2017/05/ludo-300X176.png",
+        "g_game": "https://freakxapps.com/demo/me/ludonew7/"
+    },
+    {
+        "g_name": "Chase Racing Cars",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2017/06/chase-racing-car-300.jpg",
+        "g_game": "https://freakxapps.com/demo/me/crc/fr/"
+    },
+    {
+        "g_name": "Sumo Saga",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2018/08/300x176.jpg",
+        "g_game": "https://freakxapps.com/demo/me/sumo-saga/"
+    },
+    {
+        "g_name": "Speedy Boat",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2018/03/300X176.jpg",
+        "g_game": "https://freakxapps.com/demo/me/speedy-boat/"
+    },
+    {
+        "g_name": "Lizard Rocket",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2017/01/lizard.jpg",
+        "g_game": "https://freakxapps.com/demo/me/rocket-lizard/test2/fr/"
+    },
+    {
+        "g_name": "Road Fight",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2017/07/300X176-road-fight.jpg",
+        "g_game": "https://freakxapps.com/demo/me/road-fight5/fr/"
+    },
+    {
+        "g_name": "Pingu & Friends",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2019/01/pingu-hop.png",
+        "g_game": "https://freakxapps.com/demo/me/pingu-and-friends3/"
+    },
+    {
+        "g_name": "Crazy Balls",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2018/12/crazyballs300X176.jpg",
+        "g_game": "https://freakxapps.com/demo/me/crazy-balls-new4/"
+    },
+    {
+        "g_name": "Jumpy Kangaroo",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2018/11/300x176-jumpy.jpg",
+        "g_game": "https://freakxapps.com/demo/me/jumpy-kangaroo4/"
+    },
+    {
+        "g_name": "Airplane Battle",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2018/03/airplane-300X176.jpg",
+        "g_game": "https://freakxapps.com/demo/me/airplane-battle1/"
+    },
+    {
+        "g_name": "Mr. potato",
+        "g_image": "https://freakxapps.com/wp-content/uploads/2017/08/300x176.jpg",
+        "g_game": "https://freakxapps.com/demo/me/mrpotato1/fr/"
+    }
+]
